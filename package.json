@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "acorn": "^2.1.0",
-    "minimist": "^1.1.2"
+    "fibers": "*",
+    "minimist": "^1.1.2",
+    "prompt": "^0.2.14"
   }
 }
